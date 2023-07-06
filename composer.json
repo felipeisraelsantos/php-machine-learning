@@ -1,0 +1,17 @@
+{
+    "name": "felipe-pc/php-machine-learning",
+    "autoload": {
+        "psr-4": {
+            "MachineLearning\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "felipeisraelsantos",
+            "email": "felipe.israel@aluno.ifsp.edu.br"
+        }
+    ],
+    "require": {
+        "rubix/ml": "^2.3"
+    }
+}
